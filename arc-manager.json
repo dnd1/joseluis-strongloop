@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "ManagerHost": 2,
+    "LoadBalancer": 1
+  },
+  "models": {
+    "ManagerHost": {
+      "f9026244-8db7-4ac0-bd81-5779da0de91a": "{\"id\":\"f9026244-8db7-4ac0-bd81-5779da0de91a\",\"host\":\"localhost\",\"port\":8702,\"actions\":[\"delete\",\"edit\"],\"protocol\":\"http\",\"created\":1455310903817,\"error\":{\"message\":\"connect ECONNREFUSED 127.0.0.1:8702\"},\"errorType\":\"connection\",\"app\":null,\"processes\":null}"
+    },
+    "LoadBalancer": {}
+  }
+}
